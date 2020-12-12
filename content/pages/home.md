@@ -1,9 +1,11 @@
 ---
 template: HomePage
-slug: ''
-title: Yellowcake
-featuredImage: 'https://ucarecdn.com/159203d3-881d-4218-baa1-ca4427b48d0d/'
-subtitle: ' Welcome to the ultimate Gatsby and Netlify starter project.'
+slug: ""
+title: Zavala Abogados
+featuredImage: https://ucarecdn.com/e14d5ae2-4300-4420-86a6-cb5ec05ed136/
+subtitle: Somos una firma de abogados que nos dedicamos a la defensa y
+  protección de los intereses de nuestros clientes en materia de Derecho Fiscal,
+  Penal-Fiscal, Administrativo y Familiar.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
