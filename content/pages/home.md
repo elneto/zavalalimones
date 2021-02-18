@@ -1,14 +1,15 @@
 ---
 template: HomePage
 slug: ""
-title: Zavala Abogados
-featuredImage: https://ucarecdn.com/e14d5ae2-4300-4420-86a6-cb5ec05ed136/
+title: Administración de Condominios Zavala
+featuredImage: https://ucarecdn.com/e951a5c1-4f96-4b55-971a-6b13f2f6bcfa/
 subtitle: Somos una firma de abogados que nos dedicamos a la defensa y
   protección de los intereses de nuestros clientes en materia de Derecho Fiscal,
   Penal-Fiscal, Administrativo y Familiar.
 meta:
   description: This is a meta description.
   title: The Ultimate Gatsby Starter
+  noindex: true
 ---
 
 Yellowcake is an opinionated starter project created by [Thrive Digital](https://thriveweb.com.au/) a [Gold Coast Web Design](https://thriveweb.com.au/) studio. to help you create lightning fast websites with [Gatsby](https://gatsbyjs.org) and [Netlify CMS](https://netlifycms.org).
