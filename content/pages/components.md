@@ -1,9 +1,10 @@
 ---
 template: ComponentsPage
 slug: components
-title: Components Page
-featuredImage: https://ucarecdn.com/df0dc650-6938-412f-aefb-2019d2349e13/
-subtitle: This is the components page subtitle.
+title: Nuestros Servicios
+featuredImage: https://ucarecdn.com/c75ea4ff-afaf-4091-80de-e9359ef4f625/
+subtitle: Administración de condominios residenciales / Administración de
+  edificios de oficinas / Administración de centros comerciales.
 section1: >-
   ## This is a container component
 
