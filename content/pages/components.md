@@ -4,7 +4,7 @@ slug: servicios
 title: Nuestros Servicios
 featuredImage: https://ucarecdn.com/c75ea4ff-afaf-4091-80de-e9359ef4f625/
 subtitle: Administración de condominios residenciales / Administración de
-  edificios de oficinas / Administración de centros comerciales.
+  edificios de oficinas / Administración de centros comerciales
 section1: >-
   ## This is a container component
 

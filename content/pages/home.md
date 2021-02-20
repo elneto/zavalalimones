@@ -3,9 +3,9 @@ template: HomePage
 slug: ""
 title: Administración de Condominios Zavala
 featuredImage: https://ucarecdn.com/e951a5c1-4f96-4b55-971a-6b13f2f6bcfa/
-subtitle: Soluciones integrales en la administración de condominios.
+subtitle: Soluciones integrales en la administración de condominios
 meta:
-  description: Soluciones integrales en la administración de condominios.
+  description: Soluciones integrales en la administración de condominios
   title: Zavala Condominios
   noindex: true
 ---
@@ -24,7 +24,7 @@ Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindand
 * Respaldo de expertos profesionales y certificados en el tema condominal.
 * Mejores niveles de operatividad, seguridad, limpieza y mantenimiento.
 
-  # Misión
+#    Misión
 
 Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
 
