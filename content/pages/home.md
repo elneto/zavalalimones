@@ -25,12 +25,18 @@ Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindand
 
 # Misión
 
+![](https://ucarecdn.com/4de638f6-88d9-41de-b15c-9f86ccdd8941/)
+
 Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
 
 # Visión
 
+![](https://ucarecdn.com/289d5e07-996e-47f2-9c05-d74af886b908/)
+
 Ser una firma de prestigio y reconocimiento nacional e internacional, líder en su ramo, en constante mejoramiento y desarrollo. Estar formada por colaboradores honestos, responsables y comprometidos. Contar con la lealtad de nuestros clientes así como con su plena satisfacción por nuestros servicios..
 
 # Valores
+
+![](https://ucarecdn.com/5c55f224-0b88-4fdd-979b-c8a2dd005a7b/)
 
 Servicio al cliente: nos esforzamos por satisfacer al máximo las necesidades y expectativas de nuestros clientes. Trabajo en equipo: todo el personal colabora en beneficio de nuestros clientes.
