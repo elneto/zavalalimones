@@ -11,9 +11,8 @@ meta:
 ---
 Somos una empresa especializada en la administración de condominios profesional, que cuenta con un equipo de profesionales expertos en el ramo condominal. Aprovechamos al máximo los recursos monetarios y activos físicos de tu condominio con el fin de mejorar la calidad de vida de los condóminos. Obteniendo los mejores niveles de sana convivencia, seguridad, limpieza, mantenimiento y la mayor plusvalía para el condominio.
 
-En ZAVALA CONDOMINIOS contamos con una larga experiencia en servicios integrales para la gestión, mantenimiento y administración de condominios. 
+En ZAVALA ADMINISTACIONES contamos con una larga experiencia en servicios integrales para la gestión, mantenimiento y administración de condominios. 
 Nos hacemos cargo del mantenimiento, supervisión, limpieza e inventario, previniendo el deterioro a largo plazo de los inmuebles.
-
 
 Destacamos entre los mejores despachos de administración de condominios en la Ciudad de México, Morelos y el estado de Querétaro. 
 Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindando atención personalizada.
@@ -24,14 +23,20 @@ Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindand
 * Respaldo de expertos profesionales y certificados en el tema condominal.
 * Mejores niveles de operatividad, seguridad, limpieza y mantenimiento.
 
-#    Misión
+# Misión
+
+![](https://ucarecdn.com/4de638f6-88d9-41de-b15c-9f86ccdd8941/)
 
 Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
 
-#    Visión
+# Visión
+
+![](https://ucarecdn.com/289d5e07-996e-47f2-9c05-d74af886b908/)
 
 Ser una firma de prestigio y reconocimiento nacional e internacional, líder en su ramo, en constante mejoramiento y desarrollo. Estar formada por colaboradores honestos, responsables y comprometidos. Contar con la lealtad de nuestros clientes así como con su plena satisfacción por nuestros servicios..
 
-#    Valores
+# Valores
+
+![](https://ucarecdn.com/5c55f224-0b88-4fdd-979b-c8a2dd005a7b/)
 
 Servicio al cliente: nos esforzamos por satisfacer al máximo las necesidades y expectativas de nuestros clientes. Trabajo en equipo: todo el personal colabora en beneficio de nuestros clientes.
