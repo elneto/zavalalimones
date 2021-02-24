@@ -6,7 +6,7 @@ featuredImage: https://ucarecdn.com/e951a5c1-4f96-4b55-971a-6b13f2f6bcfa/
 subtitle: Soluciones integrales en la administración de condominios
 meta:
   description: Soluciones integrales en la administración de condominios
-  title: Zavala Administraciónes
+  title: Zavala Administraciones
   noindex: true
 ---
 Somos una empresa especializada en la administración de condominios profesional, que cuenta con un equipo de profesionales expertos en el ramo condominal. Aprovechamos al máximo los recursos monetarios y activos físicos de tu condominio con el fin de mejorar la calidad de vida de los condóminos. Obteniendo los mejores niveles de sana convivencia, seguridad, limpieza, mantenimiento y la mayor plusvalía para el condominio.
