@@ -18,7 +18,8 @@ export const ContactPageTemplate = ({
   address,
   phone,
   email,
-  locations
+  locations,
+  mapLink
 }) => (
   <main className="Contact">
     <PageHeader
@@ -30,13 +31,12 @@ export const ContactPageTemplate = ({
       <div className="container Contact--Section1--Container">
         <div>
           <Content source={body} />
+          {/* <p>Oh hi {mapLink}</p> */}
           <div className="Contact--Details">
             {address && (
               <a
                 className="Contact--Details--Item"
-                href={`https://www.google.com.au/maps/search/${encodeURI(
-                  address
-                )}`}
+                href={`https://goo.gl/maps/8akBj7bj7ETieNka6`}
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -56,13 +56,13 @@ export const ContactPageTemplate = ({
           </div>
         </div>
 
-        <div>
+        {/* <div>
           <FormSimpleAjax name="Simple Form Ajax" />
-        </div>
+        </div> */}
       </div>
     </section>
 
-    <GoogleMap locations={locations} />
+    {/* <GoogleMap locations={locations} /> */}
   </main>
 )
 
