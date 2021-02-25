@@ -25,7 +25,7 @@ Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindand
 
 # Misión
 
-![](https://ucarecdn.com/4de638f6-88d9-41de-b15c-9f86ccdd8941/)
+![](https://ucarecdn.com/240e7d7f-492d-4f3c-8975-c509556e5081/)
 
 Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
 
