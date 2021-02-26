@@ -73,17 +73,19 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Inicio</NavLink>
             <NavLink to="/servicios/">Nuestros Servicios</NavLink>
-            {/* <div
+            <NavLink to="/clientes/">Nuestros Clientes</NavLink>
+            <div
               className={`Nav--Group ${
                 this.state.activeSubNav === 'posts' ? 'active' : ''
               }`}
             >
               <span
                 className={`NavLink Nav--GroupParent ${
-                  this.props.location.pathname.includes('posts') ||
-                  this.props.location.pathname.includes('blog') ||
-                  this.props.location.pathname.includes('post-categories')
-                    ? 'active'
+                  this.props.location.pathname.includes('privacidad')
+                    ? //   ||
+                      //   this.props.location.pathname.includes('blog') ||
+                      //   this.props.location.pathname.includes('post-categories')
+                      'active'
                     : ''
                 }`}
                 onClick={() => this.toggleSubNav('posts')}
@@ -92,12 +94,15 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Blog
+                Aviso de Privacidad
                 <div className="Nav--GroupLinks">
-                  <NavLink to="/blog/" className="Nav--GroupLink">
-                    All Posts
+                  <NavLink to="/privacidad-web/" className="Nav--GroupLink">
+                    Sitio Web
                   </NavLink>
-                  {subNav.posts.map((link, index) => (
+                  <NavLink to="/privacidad-cliente/" className="Nav--GroupLink">
+                    Cliente
+                  </NavLink>
+                  {/* {subNav.posts.map((link, index) => (
                     <NavLink
                       to={link.slug}
                       key={'posts-subnav-link-' + index}
@@ -105,11 +110,10 @@ export class Navigation extends Component {
                     >
                       {link.title}
                     </NavLink>
-                  ))}
+                  ))} */}
                 </div>
               </span>
-            </div> */}
-            <NavLink to="/clientes/">Nuestros Clientes</NavLink>
+            </div>
             <NavLink to="/contacto/">Contacto</NavLink>
           </div>
           <button
