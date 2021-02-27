@@ -4,7 +4,8 @@ slug: contacto
 title: Contacto
 featuredImage: https://ucarecdn.com/e22a858a-b420-47af-99f6-ed54b6860333/
 subtitle: Escríbanos
-address: Rio Elba 22. Sexto piso, Col. Cuauhtémoc, 06600, CDMX
+address: "Rio Elba 22. Sexto piso, Col. Cuauhtémoc, Alcaldía: Cuauhtémoc, C.P.
+  06600, Ciudad de México."
 phone: 55 5512 2451 y 55 5512 7473
 email: administraciones@zavalaabogados.com.mx
 locations:
