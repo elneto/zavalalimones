@@ -9,25 +9,20 @@ meta:
   title: Zavala Administraciones
   noindex: true
 ---
-Somos una empresa especializada en la administración de condominios profesional, que cuenta con un equipo de profesionales expertos en el ramo condominal. Aprovechamos al máximo los recursos monetarios y activos físicos de tu condominio con el fin de mejorar la calidad de vida de los condóminos. Obteniendo los mejores niveles de sana convivencia, seguridad, limpieza, mantenimiento y la mayor plusvalía para el condominio.
+ZAVALA ADMINISTRACIONES es una empresa especializada en la Administración de Inmuebles, dedicada a lograr la correcta convivencia y administración de su hogar. Brindamos soluciones óptimas para todo tipo de problemáticas en condominios. Contamos con experiencia y una cartera de clientes en Ciudad de México, Estado de México, Jalisco, Hidalgo, Querétaro y Morelos.
 
-En ZAVALA ADMINISTACIONES contamos con una larga experiencia en servicios integrales para la gestión, mantenimiento y administración de condominios. 
-Nos hacemos cargo del mantenimiento, supervisión, limpieza e inventario, previniendo el deterioro a largo plazo de los inmuebles.
-
-Destacamos entre los mejores despachos de administración de condominios en la Ciudad de México, Morelos y el estado de Querétaro. 
-Solucionamos cualquier tema respetando el reglamento de cada propiedad, brindando atención personalizada.
+Realizamos estudios detallados y planes de trabajo específicos para cada uno de nuestros clientes, desarrollando técnicas eficientes y elaboradas por grupos de especialistas conformado por contadores, administradores y abogados para solucionar problemáticas relacionadas con recuperación de carteras vencidas, morosidad, trámites ante la Procuraduría Social, trámites gubernamentales e institucionales y planes contables para rendimiento de cuentas, entre otros. Contamos con un Área de Atención a clientes para atender cualquier situación y mantener una comunicación permanente con nuestros clientes.”.
 
 # Beneficio de la administración de condominios profesional:
 
 * Resolución de problemas condominales imparciales y objetivas.
-* Respaldo de expertos profesionales y certificados en el tema condominal.
 * Mejores niveles de operatividad, seguridad, limpieza y mantenimiento.
 
 # Misión
 
 ![](https://ucarecdn.com/240e7d7f-492d-4f3c-8975-c509556e5081/)
 
-Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
+Prestar soluciones integrales en administración de condominios, edificios de oficinas y centros comerciales acorde a las disposiciones legales, los criterios y principios institucionales de la firma y superar las expectativas de nuestros clientes.
 
 # Visión
 
