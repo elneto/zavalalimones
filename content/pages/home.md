@@ -11,7 +11,7 @@ meta:
 ---
 ZAVALA ADMINISTRACIONES es una empresa especializada en la Administración de Inmuebles, dedicada a lograr la correcta convivencia y administración de su hogar. Brindamos soluciones óptimas para todo tipo de problemáticas en condominios. Contamos con experiencia y una cartera de clientes en Ciudad de México, Estado de México, Jalisco, Hidalgo, Querétaro y Morelos.
 
-Realizamos estudios detallados y planes de trabajo específicos para cada uno de nuestros clientes, desarrollando técnicas eficientes y elaboradas por grupos de especialistas conformado por contadores, administradores y abogados para solucionar problemáticas relacionadas con recuperación de carteras vencidas, morosidad, trámites ante la Procuraduría Social, trámites gubernamentales e institucionales y planes contables para rendimiento de cuentas, entre otros. Contamos con un Área de Atención a clientes para atender cualquier situación y mantener una comunicación permanente con nuestros clientes.”.
+Realizamos estudios detallados y planes de trabajo específicos para cada uno de nuestros clientes, desarrollando técnicas eficientes y elaboradas por grupos de especialistas conformado por contadores, administradores y abogados para solucionar problemáticas relacionadas con recuperación de carteras vencidas, morosidad, trámites ante la Procuraduría Social, trámites gubernamentales e institucionales y planes contables para rendimiento de cuentas, entre otros. Contamos con un Área de Atención a clientes para atender cualquier situación y mantener una comunicación permanente con nuestros clientes.
 
 # Beneficio de la administración de condominios profesional:
 
@@ -28,7 +28,7 @@ Prestar soluciones integrales en administración de condominios, edificios de of
 
 ![](https://ucarecdn.com/289d5e07-996e-47f2-9c05-d74af886b908/)
 
-Ser una firma de prestigio y reconocimiento nacional e internacional, líder en su ramo, en constante mejoramiento y desarrollo. Estar formada por colaboradores honestos, responsables y comprometidos. Contar con la lealtad de nuestros clientes así como con su plena satisfacción por nuestros servicios..
+Ser una firma de prestigio y reconocimiento nacional e internacional, líder en su ramo, en constante mejoramiento y desarrollo. Estar formada por colaboradores honestos, responsables y comprometidos. Contar con la lealtad de nuestros clientes así como con su plena satisfacción por nuestros servicios.
 
 # Valores
 
