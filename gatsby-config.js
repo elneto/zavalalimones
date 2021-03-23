@@ -134,6 +134,14 @@ module.exports = {
         enableIdentityWidget: true
       }
     },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://zavalaadministraciones.com.mx/',
+        sitemap: 'https://zavalaadministraciones.com.mx/sitemap.xml',
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
     'gatsby-plugin-netlify' // make sure to keep it last in the array
   ]
 }
