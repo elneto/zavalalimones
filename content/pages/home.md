@@ -3,15 +3,7 @@ template: HomePage
 slug: ""
 title: Administración de Condominios Zavala
 featuredImage: https://ucarecdn.com/e951a5c1-4f96-4b55-971a-6b13f2f6bcfa/
-subtitle: >-
-  ```
-
-  <meta name="google-site-verification" content="fRFoIWnBoleZqSuuD3VpzznuTZhPtxkSxM_E9yN0p2s" />
-
-  ```
-
-
-  Soluciones integrales en la administración de condominios
+subtitle: Soluciones integrales en la administración de condominios
 meta:
   description: ""
   title: ""
