@@ -3,10 +3,18 @@ template: HomePage
 slug: ""
 title: Administración de Condominios Zavala
 featuredImage: https://ucarecdn.com/e951a5c1-4f96-4b55-971a-6b13f2f6bcfa/
-subtitle: Soluciones integrales en la administración de condominios
+subtitle: >-
+  ```
+
+  <meta name="google-site-verification" content="fRFoIWnBoleZqSuuD3VpzznuTZhPtxkSxM_E9yN0p2s" />
+
+  ```
+
+
+  Soluciones integrales en la administración de condominios
 meta:
-  description: Soluciones integrales en la administración de condominios
-  title: Zavala Administraciones
+  description: ""
+  title: ""
   noindex: true
 ---
 ZAVALA ADMINISTRACIONES es una empresa especializada en la Administración de Inmuebles, dedicada a lograr la correcta convivencia y administración de su hogar. Brindamos soluciones óptimas para todo tipo de problemáticas en condominios. Contamos con experiencia y una cartera de clientes en Ciudad de México, Estado de México, Jalisco, Hidalgo, Querétaro y Morelos.
